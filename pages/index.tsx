@@ -53,6 +53,9 @@ export default function HomePage() {
                 <Link href="/test" className="text-blue-600 hover:underline">
                   Non-existent Page 
                 </Link>
+                <Link href="/about" className="text-blue-600 hover:underline">
+                  About Page 
+                </Link>
               </li>
             </ul>
           </div>
